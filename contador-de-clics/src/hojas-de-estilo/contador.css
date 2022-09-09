@@ -1,0 +1,12 @@
+.contador {
+    min-width: 300px; /*como usamos un ancho min no importa cuantos clics hagamos, el contador se va ajustar pq no tiene maximo*/
+    height: 300px;
+    font-size: 160px;
+    padding: 25px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 8px solid white;
+    margin-bottom: 15px;
+}
